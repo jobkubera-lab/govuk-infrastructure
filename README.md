@@ -1,3 +1,7 @@
+> **KUBERA REFERENCE / UPSTREAM STUDY REPOSITORY**
+>
+> This repository is retained by `jobkubera-lab` for reference and engineering study. It is not presented as original KUBERA code. The upstream GOV.UK project and original authorship remain authoritative; KUBERA-specific work is documented separately in the main KUBERA portfolio.
+
 # GOV.UK Infrastructure
 
 ## What's in this repo
@@ -123,8 +127,7 @@ You can turn off a rule for a paragraph the offending line or paragraph with a c
 
 Comments with the vale directive must have nothing else in the same comment. 
 
-The comment before the rule is turned back on, which explains why the rule is not necessary, is not required. However,
-it is a good convention for you to follow.
+The comment before the rule is turned back on, which explains why the rule is not necessary, is not required. However, it is a good convention for you to follow.
 
 #### Add a new linting rule
 
@@ -137,7 +140,7 @@ format of rules files.
 
 ## Team
 
-[GOV.UK Platform Engineering team](https://github.com/orgs/alphagov/teams/gov-uk-platform-engineering) looks after this repo. If you're inside GDS, you can find us in [#govuk-ask-platform-engineering](https://gds.slack.com/channels/govuk-platform-engineering) or view our [kanban board](https://github.com/orgs/alphagov/projects/71).
+[GOV.UK Platform Engineering team](https://github.com/orgs/alphagov/teams/gov-uk-platform-engineering) looks after this repo. If you're inside GDS, you can find us in [#govuk-ask-platform-engineering](https://gds.slack.com/channels/govuk-ask-platform-engineering) or view our [kanban board](https://github.com/orgs/alphagov/projects/71).
 
 ## Licence
 
