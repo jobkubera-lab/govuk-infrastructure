@@ -81,7 +81,7 @@ how to handle them
 
 #### Vale says a product name or a plural acronym is an incorrect spelling
 
-Vale uses an open source dictionary to spell check our writing. It does not know about proper nouns, and will frequently
+Vale uses an open source dictionary to spell check our work. It does not know about proper nouns, and will frequently
 ask if you meant to spell it that way. If you are confident that you are right, there are two steps to take
 
 1. Add the word to the vocabulary file in alphabetical order `.vale/styles/config/vocabularies/PlatformEngineering/accept.txt`. 
