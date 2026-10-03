@@ -81,7 +81,7 @@ how to handle them
 
 #### Vale says a product name or a plural acronym is an incorrect spelling
 
-Vale uses an open source dictionary to spell check our work. It does not know about proper nouns, and will frequently
+Vale uses an open source dictionary to spell check our writing. It does not know about proper nouns, and will frequently
 ask if you meant to spell it that way. If you are confident that you are right, there are two steps to take
 
 1. Add the word to the vocabulary file in alphabetical order `.vale/styles/config/vocabularies/PlatformEngineering/accept.txt`. 
@@ -127,7 +127,8 @@ You can turn off a rule for a paragraph the offending line or paragraph with a c
 
 Comments with the vale directive must have nothing else in the same comment. 
 
-The comment before the rule is turned back on, which explains why the rule is not necessary, is not required. However, it is a good convention for you to follow.
+The comment before the rule is turned back on, which explains why the rule is not necessary, is not required. However,
+it is a good convention for you to follow.
 
 #### Add a new linting rule
 
@@ -140,7 +141,7 @@ format of rules files.
 
 ## Team
 
-[GOV.UK Platform Engineering team](https://github.com/orgs/alphagov/teams/gov-uk-platform-engineering) looks after this repo. If you're inside GDS, you can find us in [#govuk-ask-platform-engineering](https://gds.slack.com/channels/govuk-ask-platform-engineering) or view our [kanban board](https://github.com/orgs/alphagov/projects/71).
+[GOV.UK Platform Engineering team](https://github.com/orgs/alphagov/teams/gov-uk-platform-engineering) looks after this repo. If you're inside GDS, you can find us in [#govuk-ask-platform-engineering](https://gds.slack.com/channels/govuk-platform-engineering) or view our [kanban board](https://github.com/orgs/alphagov/projects/71).
 
 ## Licence
 
